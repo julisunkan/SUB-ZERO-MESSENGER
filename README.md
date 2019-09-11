@@ -18,6 +18,8 @@ verified.pm
 
 vipclub.pm
 
+suchat.org
+
 =======The following servers DOES NOT REQUIRE registration on their website. Registration can be done through Sub Zero App
 
 sj.ms	
@@ -34,7 +36,7 @@ inb4404.com
 
 blabber.im	
 
-suchat.org	
+	
 
 magicbroccoli.de
 
