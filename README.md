@@ -4,8 +4,11 @@ SUB ZERO is a secure android messaging client that inter-loops across divers net
 #List of Available Servers (New Servers will be added regularly)
 
 #a.) 34.94.165.80
+
 #b.) 1jabber.com
+
 #c.) nologs.club
+
 #d.) 31337.live
 
 #Enthusiastic users can support us by donations:
