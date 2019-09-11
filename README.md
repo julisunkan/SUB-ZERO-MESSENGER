@@ -20,6 +20,8 @@ vipclub.pm
 
 suchat.org
 
+5222.de
+
 =======The following servers DOES NOT REQUIRE registration on their website. Registration can be done through Sub Zero App
 
 sj.ms	
