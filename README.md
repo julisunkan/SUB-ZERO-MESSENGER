@@ -17,18 +17,6 @@ SUB ZERO is a secure android messaging client that inter-loops across divers net
 
 #g.) vipclub.pm
 
-Public domains
-
-    jabber.hot-chilli.net
-    jabber.hot-chilli.eu
-    hot-chilli.net
-    hot-chilli.eu
-    im.hot-chilli.net
-    im.hot-chilli.eu
-    jabb3r.de
-    jabb3r.org
-    jabber-hosting.de
-    xmpp-hosting.de
 
 
 
