@@ -22,11 +22,14 @@ suchat.org
 
 5222.de
 
-=======The following servers DOES NOT REQUIRE registration on their website. Registration can be done through Sub Zero App
+=======The following servers DOES NOT REQUIRE registration on their website. 
+=======Registration can be done through Sub Zero App
 
 sj.ms	
 
 inb4404.com 
+
+616.pub
 
 #Enthusiastic users can support us by donations:
 *For Nigerian users visit: https://htmlpreview.github.io/?https://voguepay.com/pay/bnl/5d77adb930ea5
