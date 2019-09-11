@@ -15,5 +15,7 @@ SUB ZERO is a secure android messaging client that inter-loops across divers net
 
 #f.) verified.pm
 
+#g.) vipclub.pm
+
 #Enthusiastic users can support us by donations:
 *For Nigerian users visit: https://htmlpreview.github.io/?https://voguepay.com/pay/bnl/5d77adb930ea5
