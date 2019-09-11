@@ -3,6 +3,8 @@ SUB ZERO is a secure android messaging client that inter-loops across divers net
 
 #List of Available Servers (New Servers will be added regularly)
 
+=======The following servers REQUIRED registration on their website======
+
 
 1jabber.com
 
@@ -16,6 +18,7 @@ verified.pm
 
 vipclub.pm
 
+=======The following servers DOES NOT REQUIRE registration on their website. Registration can be done through Sub Zero App
 
 sj.ms	
 
