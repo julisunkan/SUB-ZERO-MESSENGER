@@ -24,14 +24,6 @@ suchat.org
 
 sj.ms	
 
-jabber.fr
-
-xmpp.fi 
-
-xmpp.is	
-
-xmpp.co	
-
 inb4404.com 
 
 #Enthusiastic users can support us by donations:
