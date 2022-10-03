@@ -32,8 +32,3 @@ inb4404.com
 616.pub
 
 anonym.im
-
-
-
-#Enthusiastic users can support us by donations:
-*For Nigerian users visit: https://htmlpreview.github.io/?https://voguepay.com/pay/bnl/5d77adb930ea5
